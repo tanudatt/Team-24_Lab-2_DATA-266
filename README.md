@@ -14,6 +14,7 @@ Extracts structured and unstructured data from a PDF (including figures and tabl
 
 ### Part 2: Stable Diffusion Fine-Tuning
 Fine-tunes `runwayml/stable-diffusion-v1-5` using a custom dataset of landscape images. Generates high-quality visuals from text prompts and evaluates them using:
+### Google Drive Link: https://drive.google.com/drive/folders/16DuDfD0v3gWoweqZwGQ70nOnzd4zROcR?usp=drive_link
 
 - **Inception Score**: `8.2500 ± 0.3200`
 - **CLIP Similarity Score**: `0.7840`  
